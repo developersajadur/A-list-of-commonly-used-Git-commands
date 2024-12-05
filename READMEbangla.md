@@ -3,7 +3,6 @@
 
 ## অনুবাদিত সংস্করণ
 - [English version (original)](README.md)
-- [العربية](READMEar.md)
 
 ___
 
