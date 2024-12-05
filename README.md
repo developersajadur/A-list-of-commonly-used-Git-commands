@@ -2,14 +2,12 @@ Git Commands
 ============
 
 ## Translated Versions
-- [বাংলা সংস্করণ](READMEbn.md)
-- [العربية](READMEar.md)
-
+- [বাংলা সংস্করণ](READMEbangla.md)
 ___
 
 _A list of my commonly used Git commands_
 
-*If you are interested in my Git aliases, have a look at my `.bash_profile`, found here: https://github.com/developersajadur*
+*If you are interested in my Git aliases, have a look here: https://github.com/developersajadur*
 
 --
 
